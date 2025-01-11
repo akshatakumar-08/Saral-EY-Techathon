@@ -1,1 +1,1 @@
-# Saral-EY-Techathon
+# Saral:EY-Techathon
